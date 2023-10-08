@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+    @apply bg-gradient-to-tr from-green-400 via-green-300 to-green-200
+} */
